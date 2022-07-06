@@ -1,0 +1,52 @@
+[
+  {
+    "id": "Mindset",
+    "title": "Mindset",
+    "price": "286.99",
+    "image": "/images/mind.jpg"
+  },
+  {
+    "id": "Amazon",
+    "title": "Amazon Unbound",
+    "price": "324.99",
+    "image": "/images/ama.jpg"
+  },
+  {
+    "id": "Minimalist",
+    "title": "The Minimalist Entrepreneur",
+    "price": "350.99",
+    "image": "/images/mini.jpg"
+  },
+
+  {
+    "id": "Tech",
+    "title": "The Tech That Comes Next",
+    "price": "386.99",
+    "image": "/images/tech.jpg"
+  },
+  {
+    "id": "Supermaker",
+    "title": "Supermaker",
+    "price": "426.99",
+    "image": "/images/super.jpg"
+  },
+
+  {
+    "id": "Money",
+    "title": "The Psychology of Money",
+    "price": "486.99",
+    "image": "/images/sycho.jpg"
+  },
+  {
+    "id": "Belong",
+    "title": "The Business of Belonging",
+    "price": "386.99",
+    "image": "/images/long.jpg"
+  },
+  {
+    "id": "Lead",
+    "title": "Learning to Lead ",
+    "price": "286.99",
+    "image": "/images/lead.jpg"
+  }
+]
