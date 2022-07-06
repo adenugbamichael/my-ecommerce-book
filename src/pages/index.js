@@ -24,7 +24,12 @@ export default function Home() {
             {products.map((product) => {
               return (
                 <li key={product.id}>
-                  <img src={product.image} alt={`Cover of ${product.title}`} />
+                  <Image
+                    width='1322'
+                    height='2000'
+                    src={product.image}
+                    alt={`Cover of ${product.title}`}
+                  />
                   <h3 className={styles.productTitles}>{product.title}</h3>
                   <p className={styles.productPrice}>${product.price}</p>
                   <p>
