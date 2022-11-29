@@ -1,9 +1,9 @@
 [
   {
-    "id": "Mindset",
-    "title": "Mindset",
+    "id": "Cold",
+    "title": "The Cold Start Problem",
     "price": "286.99",
-    "image": "/images/mind.jpg"
+    "image": "/images/cold.jpg"
   },
   {
     "id": "Amazon",
@@ -12,10 +12,10 @@
     "image": "/images/ama.jpg"
   },
   {
-    "id": "Minimalist",
-    "title": "The Minimalist Entrepreneur",
+    "id": "Blockchain",
+    "title": "The Business Blockchain",
     "price": "350.99",
-    "image": "/images/mini.jpg"
+    "image": "/images/blockchain.jpg"
   },
 
   {
@@ -25,28 +25,28 @@
     "image": "/images/tech.jpg"
   },
   {
-    "id": "Supermaker",
-    "title": "Supermaker",
+    "id": "eloquent",
+    "title": "eloquent javascript",
     "price": "426.99",
-    "image": "/images/super.jpg"
+    "image": "/images/eloquent.jpg"
   },
 
   {
-    "id": "Money",
-    "title": "The Psychology of Money",
+    "id": "Confidence",
+    "title": "Confidence",
     "price": "486.99",
-    "image": "/images/sycho.jpg"
+    "image": "/images/Confidence.png"
   },
   {
-    "id": "Belong",
-    "title": "The Business of Belonging",
+    "id": "HBR",
+    "title": "10 Must Reads on Emotional Intelligence",
     "price": "386.99",
-    "image": "/images/long.jpg"
+    "image": "/images/HBR.png"
   },
   {
-    "id": "Lead",
-    "title": "Learning to Lead ",
+    "id": "Measure",
+    "title": "How Will You Measure Your Life",
     "price": "286.99",
-    "image": "/images/lead.jpg"
+    "image": "/images/Measure.png"
   }
 ]

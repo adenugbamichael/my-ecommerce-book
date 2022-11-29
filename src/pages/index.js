@@ -1,5 +1,7 @@
+import { useState } from "react"
 import Head from "next/head"
 import Image from "next/image"
+import Link from "next/link"
 import Header from "@components/Header"
 import Container from "@components/Container"
 import Button from "@components/Button"
@@ -33,7 +35,17 @@ export default function Home() {
                   <h3 className={styles.productTitles}>{product.title}</h3>
                   <p className={styles.productPrice}>${product.price}</p>
                   <p>
-                    <Button>Add to Cart</Button>
+                    <Button
+                      className='snipcart-add-item'
+                      data-item-id={product.id}
+                      data-item-price={product.price}
+                      data-item-url='/'
+                      data-item-description=''
+                      data-item-image={product.image}
+                      data-item-name={product.title}
+                    >
+                      Add to Cart
+                    </Button>
                   </p>
                 </li>
               )
