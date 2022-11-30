@@ -1,0 +1,52 @@
+[
+  {
+    "id": "Cold",
+    "title": "The Cold Start Problem",
+    "price": "286.99",
+    "image": "/images/cold.jpg"
+  },
+  {
+    "id": "Amazon",
+    "title": "Amazon Unbound",
+    "price": "324.99",
+    "image": "/images/ama.jpg"
+  },
+  {
+    "id": "Blockchain",
+    "title": "The Business Blockchain",
+    "price": "350.99",
+    "image": "/images/blockchain.jpg"
+  },
+
+  {
+    "id": "Tech",
+    "title": "The Tech That Comes Next",
+    "price": "386.99",
+    "image": "/images/tech.jpg"
+  },
+  {
+    "id": "Eloquent",
+    "title": "eloquent javascript",
+    "price": "426.99",
+    "image": "/images/eloquent.jpg"
+  },
+
+  {
+    "id": "Confidence",
+    "title": "Confidence",
+    "price": "486.99",
+    "image": "/images/confidence.png"
+  },
+  {
+    "id": "HBR",
+    "title": "10 Must Reads on Emotional Intelligence",
+    "price": "386.99",
+    "image": "/images/HBR.png"
+  },
+  {
+    "id": "Measure",
+    "title": "How Will You Measure Your Life",
+    "price": "286.99",
+    "image": "/images/measure.png"
+  }
+]
