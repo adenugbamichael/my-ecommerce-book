@@ -35,18 +35,18 @@
     "id": "Confidence",
     "title": "Confidence",
     "price": "486.99",
-    "image": "/images/confidence.png"
+    "image": "/images/confidence.jpg"
   },
   {
     "id": "HBR",
-    "title": "10 Must Reads on Emotional Intelligence",
+    "title": "Emotional Intelligence",
     "price": "386.99",
-    "image": "/images/HBR.png"
+    "image": "/images/HBR.jpg"
   },
   {
     "id": "Measure",
     "title": "How Will You Measure Your Life",
     "price": "286.99",
-    "image": "/images/measure.png"
+    "image": "/images/measure.jpg"
   }
 ]
